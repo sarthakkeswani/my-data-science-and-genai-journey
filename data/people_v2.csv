@@ -1,0 +1,13 @@
+name,age,city,gender,salary,experience
+Aman,25,Delhi,Male,45000,2
+Bhavna,30,Mumbai,Female,80000,7
+Chetan,22,Pune,Male,30000,1
+Divya,28,Bangalore,Female,60000,5
+Aman,25,Delhi,Male,45000,2
+Esha,,Mumbai,Female,70000,6
+Farhan,35,Delhi,Male,150000,12
+Gauri,29,Pune,Female,,4
+Harsh,45,Mumbai,Male,200000,20
+Ishita,23,Delhi,Female,35000,1
+Jatin,38,Bangalore,Male,120000,15
+Kiran,26,Pune,,40000,3
